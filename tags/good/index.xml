@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Good on Resume | Shawna</title>
+    <link>https://yutzuch.github.io/ytresume/tags/good/</link>
+    <description>Recent content in Good on Resume | Shawna</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Thu, 19 May 2022 10:07:47 +0800</lastBuildDate><atom:link href="https://yutzuch.github.io/ytresume/tags/good/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>第一篇文章</title>
+      <link>https://yutzuch.github.io/ytresume/blog/test/</link>
+      <pubDate>Thu, 19 May 2022 10:07:47 +0800</pubDate>
+      
+      <guid>https://yutzuch.github.io/ytresume/blog/test/</guid>
+      <description>This is a pen. Guten Tag! 標題一 標題二 標題六 我喜歡學習</description>
+    </item>
+    
+  </channel>
+</rss>
