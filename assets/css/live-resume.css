@@ -7711,7 +7711,7 @@ main {
       main .time-line-item-content {
         font-size: 14px;  /* ori: 10px */
         font-weight: 300;
-        line-height: 2;
+        line-height: 2.5;
         margin-bottom: 0; }
   main .services-section {
     margin-bottom: 34px; }
@@ -7853,7 +7853,7 @@ main {
   main .achievement-card-description {
     font-size: 13px;  /* ori: 10px; */
     font-weight: 700;
-    line-height: 1.2;
+    line-height: 1.8;
     margin-bottom: 0;
     color: #070707; }
   main .portfolio-section {
